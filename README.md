@@ -36,4 +36,6 @@ Simple guide for making a custom GPT through the OpenAI ChatGPT user interface t
 
 ### Example
 
+[Live Version](https://chat.openai.com/g/g-5KhePSBKr-pixijs-explainer)
+
 ![Example Image](img/example.png)
